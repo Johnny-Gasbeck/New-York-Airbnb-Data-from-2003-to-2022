@@ -1,5 +1,7 @@
 # New-York-Airbnb-Data-from-2003-to-2022
 
+## Project Portfolio can be found here: https://oil-octagon-e70.notion.site/Project-Portfolio-194a641f375380478404ef1198f2428c
+
 ## Columns in the dataset
 
 ### Numerical metrics
