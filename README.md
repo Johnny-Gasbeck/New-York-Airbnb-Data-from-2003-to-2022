@@ -1,5 +1,7 @@
 # New-York-Airbnb-Data-from-2003-to-2022
 
+#Columns in the dataset
+
 # Numerical metrics
 
 # daily_price - the daily price in local currency
@@ -8,8 +10,7 @@
 # number_of_reviews - the number of reviews the listing has
 # reviews_per_month - the number of reviews the listing has over the lifetime of the listing
 # last_review - the date of the last/newest view
-# availability_365 - the availability of the listing 365 days in the future as determined by the calendar; a listing may 
-may not be available because it has been booked by a guest or blocked by the host
+# availability_365 - the availability of the listing 365 days in the future as determined by the calendar; a listing may not be available because it has been booked by a guest or blocked by the host
 # review_rate_number - overall guest satisfaction
 # construction_year - the year the listing was built
 # id - Airbnb's unique identifier for the listing
