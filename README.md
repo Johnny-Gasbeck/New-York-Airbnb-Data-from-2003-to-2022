@@ -1,6 +1,7 @@
 # New-York-Airbnb-Data-from-2003-to-2022
 
-Numerical metrics
+# Numerical metrics
+
 daily_price - the daily price in local currency
 service_fee - Any additional fee
 minimum_nights - the minimum number of nights a guest must stay
@@ -17,8 +18,8 @@ lat - latitude coordinate
 long - longitude coordinate
 calculated_host_listings_count - the number of listings the host has in the current scrape, in the city/region geography
 
+# Categorical dimensions
 
-Categorical dimensions
 name - name of the listing.
 host_name - name of the host. Usually just the first name(s)
 neighbourhood_group - specific boroughs of New York City
